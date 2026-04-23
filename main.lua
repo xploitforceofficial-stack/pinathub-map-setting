@@ -1,4 +1,4 @@
-bis asmabungin ke ini? _0x_v1 = {
+_0x_v1 = {
     [10449761463] = "https://raw.githubusercontent.com/xploitforceofficial-stack/pinatpublic/refs/heads/main/public.lua", -- The Strongest Battlegrounds
     [98502499119821] = "https://raw.githubusercontent.com/xploitforceofficial-stack/pinatheavy3/refs/heads/main/3.lua", -- Heavyweight Fishing
     [116139828947259] = "https://pastebin.com/raw/ALYeUyd0", -- Survive the Apocalypse
